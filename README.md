@@ -17,6 +17,6 @@
 
 
 <p align="center">  
- <img src="img/dt.png" width="350"/>
+ <img src="img/dt.png" width="300"/>
 </p>  
 
