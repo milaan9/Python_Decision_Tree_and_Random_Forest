@@ -14,3 +14,9 @@
  
  
 # Python Decision Tree and Random Forest
+
+
+<p align="center">  
+ <img src="img/dt.png" width="350"/>
+</p>  
+
