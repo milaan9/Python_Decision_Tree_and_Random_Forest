@@ -1,0 +1,15 @@
+Day,Outlook,Temperature,Humidity,Windy,PlayGolf
+D1,Sunny,Mild,80,No,Yes
+D2,Sunny,Hot,75,Yes,No
+D3,Overcast,Hot,77,No,Yes
+D4,Rainy,Cool,70,No,Yes
+D5,Overcast,Cool,72,Yes,Yes
+D6,Sunny,Mild,77,No,No
+D7,Sunny,Cool,70,No,Yes
+D8,Rainy,Mild,69,No,Yes
+D9,Sunny,Mild,65,Yes,Yes
+D10,Overcast,Mild,77,Yes,Yes
+D11,Overcast,Hot,74,No,Yes
+D12,Rain,Mild,77,Yes,No
+D13,Rain,Cool,73,Yes,No
+D14,Rain,Mild,78,No,Yes
