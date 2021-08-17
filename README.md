@@ -19,7 +19,7 @@
 
 
 <p align="center">  
- <img src="img/dt.png" width="300"/>
+ <img src="img/dt0.png" width="300"/>
 </p>  
 
 
