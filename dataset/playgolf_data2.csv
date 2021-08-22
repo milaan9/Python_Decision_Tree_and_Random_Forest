@@ -1,4 +1,4 @@
-Day,Outlook,Temperature,Humidity,Windy,PlayGolf
+Day,Outlook,Temperature,Humidity,Wind,PlayGolf
 D1,Sunny,Mild,80,No,Yes
 D2,Sunny,Hot,75,Yes,No
 D3,Overcast,Hot,77,No,Yes
