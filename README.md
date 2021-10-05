@@ -31,6 +31,7 @@ A Decision Tree is one of the popular and powerful machine learning algorithms t
 
 I have given complete theoritical stepwise explanation of computing decision tree using **`ID3 (Iterative Dichotomiser)`** and **`CART (Classification And Regression Trees)`** along sucessfully implemention of decision tree on **`ID3`** and **`CART`** using Python on **[playgolf_data](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/blob/main/dataset/playgolf_data.csv)** and **[Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris)**
 
+### Play Golf dataset:
 | ![ID3](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/blob/main/img/ID3pg.png)  | ![CART](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/blob/main/img/CARTpg.png) | 
 |:---:|:---:|
 | ID3 dataset analysis| CART dataset analysis |
@@ -39,9 +40,41 @@ I have given complete theoritical stepwise explanation of computing decision tre
  <img src="img/dt.png" width="700"/>
 </p> 
 
+### Iris dataset
 
+1. Method 1: Print Text Representation
 
-## Random Forest
+<p align="center">  
+ <img src="output_DecisionTree/iris_DecisionTree_textRep.png" width="700"/>
+</p>
+
+2. Method 2: Plot Tree with plot_tree
+
+<p align="center">  
+ <img src="output_DecisionTree/iris_DecisionTree_plotTree.png" width="700"/>
+</p>
+
+3. Method 3: Plot Decision Tree with graphviz
+
+<p align="center">  
+ <img src="output_DecisionTree/iris_DecisionTree_graphivz2.png" width="700"/>
+</p>
+
+4. Method 4: Plot Decision Tree with dtreeviz Package
+
+<p align="center">  
+ <img src="output_DecisionTree/iris_DecisionTree_dtreeviz.png" width="700"/>
+</p>
+
+5. Method 5: Visualizing the Decision Tree in Regression Task
+
+<p align="center">  
+ <img src="output_DecisionTree/iris_DecisionTree_regression2.png" width="700"/>
+</p>
+
+<p align="center">  
+ <img src="output_DecisionTree/iris_DecisionTree_regression3.png" width="700"/>
+</p>
 
 
 ---
