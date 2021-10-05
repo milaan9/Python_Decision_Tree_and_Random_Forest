@@ -22,10 +22,22 @@
 
 ## Decision Tree
 
+A Decision Tree is one of the popular and powerful machine learning algorithms that I have learned. The basics of Decision Tree is explained in detail with clear explanation.
+
 
 <p align="center">  
  <img src="img/dt0.png" width="700"/>
 </p>  
+
+I have given complete theoritical stepwise explanation of computing decision tree using **`ID3 (Iterative Dichotomiser)`** and **`CART (Classification And Regression Trees)`** along sucessfully implemention of decision tree on **`ID3`** and **`CART`** using Python on **[playgolf_data](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/blob/main/dataset/playgolf_data.csv)** and **[Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris)**
+
+| [![VideoBlocks](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/blob/main/img/ID3pg.png)  | [![AudioBlocks](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/blob/main/img/CARTpg.png) | 
+|:---:|:---:|
+| http://videoblocks.com | http://audioblocks.com | 
+
+<p align="center">  
+ <img src="img/dt.png" width="700"/>
+</p> 
 
 
 
