@@ -31,9 +31,9 @@ A Decision Tree is one of the popular and powerful machine learning algorithms t
 
 I have given complete theoritical stepwise explanation of computing decision tree using **`ID3 (Iterative Dichotomiser)`** and **`CART (Classification And Regression Trees)`** along sucessfully implemention of decision tree on **`ID3`** and **`CART`** using Python on **[playgolf_data](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/blob/main/dataset/playgolf_data.csv)** and **[Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris)**
 
-| [![VideoBlocks](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/blob/main/img/ID3pg.png)  | [![AudioBlocks](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/blob/main/img/CARTpg.png) | 
+| ![ID3](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/blob/main/img/ID3pg.png)  | ![CART](https://github.com/milaan9/Python_Decision_Tree_and_Random_Forest/blob/main/img/CARTpg.png) | 
 |:---:|:---:|
-| http://videoblocks.com | http://audioblocks.com | 
+| ID3 dataset analysis| CART dataset analysis |
 
 <p align="center">  
  <img src="img/dt.png" width="700"/>
