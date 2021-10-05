@@ -51,7 +51,7 @@ I have given complete theoritical stepwise explanation of computing decision tre
 2. Method 2: Plot Tree with plot_tree
 
 <p align="center">  
- <img src="output_DecisionTree/iris_DecisionTree_plotTree.png" width="1300"/>
+ <img src="output_DecisionTree/iris_DecisionTree_plotTree.png" width="1500"/>
 </p>
 
 3. Method 3: Plot Decision Tree with graphviz
